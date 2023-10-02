@@ -241,7 +241,7 @@ ADMIN_EMAIL='admin@email.com'
     |-- ...
   ```
 
-  - controllers/paymentsController.js
+  - controllers/paymentController.js
 
   ```javascript
     const createPaymentIntentController = async () {
@@ -255,7 +255,7 @@ ADMIN_EMAIL='admin@email.com'
   }
   ```
 
-  - services/stripePaymentsService.js
+  - services/stripePaymentService.js
 
   ```javascript
     const stripeCreatePaymentIntent = async () {
