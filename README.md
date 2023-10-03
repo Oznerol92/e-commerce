@@ -61,7 +61,7 @@ ADMIN_EMAIL='admin@email.com'
 
 ## Scripts
 
-> **Make sure to run Mongo locally or to enter the right cluster credentials. <a href="https://www.mongodb.com/try/download/shell" target="_blank">Mongo Shell</a>, <a href="https://www.mongodb.com/docs/mongodb-shell/install/" target="_blank">Docs link</a>, <a href="https://www.mongodb.com/docs/manual/installation/" target="_blank">Downloads link</a>**
+> **Make sure to run Mongo locally or to enter the right cluster credentials. <a href="https://www.mongodb.com/try/download/shell" target="_blank">Mongo Shell</a>, <a href="https://www.mongodb.com/docs/mongodb-shell/install/" target="_blank">Docs link</a>, <a href="https://www.mongodb.com/docs/manual/installation/" target="_blank">Download link</a>**
 
 - run only if .env variables are production ready
 
