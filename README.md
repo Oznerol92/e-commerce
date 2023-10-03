@@ -304,6 +304,10 @@ ADMIN_EMAIL='admin@email.com'
 
 - [] move all old code into new files
 
+- [] restyle frontend
+
+  - [] new folder structure?
+
 ## **How to contribute?**
 
 **1. Fork the Project**
