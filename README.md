@@ -18,7 +18,7 @@
 
   `npm run dev-install`
 
-### Create uploads folder
+## Create uploads folder
 
 `mkdir uploads`
 
@@ -60,6 +60,8 @@ ADMIN_EMAIL='admin@email.com'
 ```
 
 ## Scripts
+
+> **Make sure to run Mongo locally or to enter the right cluster credentials**
 
 - run only if .env variables are production ready
 
@@ -215,7 +217,7 @@ ADMIN_EMAIL='admin@email.com'
 
   - App.css: Global styles for your app that can be shared across components.
 
-* [] re write backend folder structure
+- [] re write backend folder structure
 
   ```
     e-commerce/
@@ -299,6 +301,8 @@ ADMIN_EMAIL='admin@email.com'
   ```javascript
   router.post("/create-payment-intent", createPaymentIntentController);
   ```
+
+- [] move all old code into new files
 
 ## **How to contribute?**
 
