@@ -18,9 +18,9 @@
 
   `npm run dev-install`
 
-- after that create uploads folder
+### Create uploads folder
 
-  `mkdir uploads`
+`mkdir uploads`
 
 ## Edit .env Variables
 
